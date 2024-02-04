@@ -1,1 +1,2 @@
 This is a new file
+git checkout <branch name> use this command to switch between branches.
